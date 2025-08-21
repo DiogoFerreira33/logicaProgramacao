@@ -1,0 +1,37 @@
+main {
+    width: 50vw;
+    margin: auto;
+ }
+
+ h1{
+text-align: center;
+ }
+#Titulo1{
+color: whitesmoke;
+background-color: black;
+}
+
+.texto-titulo1{
+    color: blue;
+    background-color: rgb(145, 230, 201);
+}
+
+#Titulo2{
+    color: black;
+    background-color: rgb(212, 0, 255);
+}
+
+.texto-titulo2{
+    color: rgb(255, 0, 0);
+    background-color: rgb(226, 142, 219);
+}
+#Titulo3{
+    color: gold;
+    background-color: rgb(51, 153, 93);
+}
+
+.texto-titulo3{
+
+color: red;
+background-color: rgb(5, 3, 3);
+}
