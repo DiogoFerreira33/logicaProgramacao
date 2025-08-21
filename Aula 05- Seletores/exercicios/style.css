@@ -1,0 +1,76 @@
+body{
+    margin: auto;
+    width: 50vw;
+}
+      
+#viagem{
+    text-align: center;
+    color: black;
+    background-color: gray;
+    font-size: 50px 
+    
+}
+#Paris{
+    color: rgb(231, 76, 60);
+    background-color: rgb(249, 235, 234);
+    font-size: 30px;
+    text-align: left;
+}
+
+#P1{
+    text-align: left;
+}
+#P2{
+    text-align: left;
+}
+#P3{
+    text-align: left;
+}
+
+#Roma{
+    color: rgb(231, 76, 60);
+    background-color: rgb(249, 235, 234);
+    font-size: 30px;
+    text-align: left;
+}
+
+#R1{
+    text-align: left;
+}
+
+#R2{
+    text-align: left;
+}
+
+#R3{
+    text-align: left;
+}
+
+#Kyoto{
+    color: rgb(231, 76, 60);
+    background-color: rgb(249, 235, 234);
+    font-size: 30px;
+    text-align: left;
+}
+
+#K1{
+    text-align: left;
+}
+
+#K2{
+    text-align: left;
+}
+
+#K3{
+    text-align: left;
+}
+
+#MA{
+    color: rgb(48, 174, 96);
+    background-color: rgb(233, 247, 239);
+}
+#Grand{
+    color: rgb(48, 174, 96);
+    background-color: hsl(233, 247, 239);
+    text-align: left;
+}
