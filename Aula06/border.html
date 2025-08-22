@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Border</title>
+    <style>
+        main{
+          margin: auto;
+          width: 50vw;
+        }
+        #box1{
+            border-width: 1px;
+
+            border-color: aqua;
+
+            border-style: dashed;
+
+            width: 80%;
+        }
+        #box2{
+            border: 1px solid black;
+
+            height: 50px;
+
+            text-align: center;
+
+            border-radius: 15px;
+        }
+        #box3{
+            height: 250px;
+            
+            border-top: 1px solid black;
+
+            border-bottom: 1px dashed green;
+
+            border-right: 1px solid red;
+        }
+
+    </style>
+</head>
+<body>
+    
+    <main>
+        <div id="box1">
+            esta é a primeira caixa
+            <div id="box2">
+                Esta é a segunda caixa
+                <div id="box3">
+                    Esta é a terceira caixa
+
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
