@@ -11,8 +11,8 @@ body{
     
 }
 #Paris{
-    color: rgb(231, 76, 60);
-    background-color: rgb(218, 90, 81);
+    color: rgb(2, 8, 59);
+    background-color: rgb(201, 112, 112);
     font-size: 30px;
     text-align: left;
 }
@@ -28,8 +28,8 @@ body{
 }
 
 #Roma{
-    color: rgb(231, 76, 60);
-    background-color: rgb(218, 90, 81);
+    color: rgb(233, 172, 5);
+    background-color: rgb(214, 54, 54);
     font-size: 30px;
     text-align: left;
 }
@@ -47,8 +47,8 @@ body{
 }
 
 #Kyoto{
-    color: rgb(231, 76, 60);
-    background-color: rgb(218, 90, 81);
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
     font-size: 30px;
     text-align: left;
 }
@@ -66,157 +66,184 @@ body{
 }
 
 #MA{
-    color: rgb(48, 174, 96);
-    background-color: rgb(233, 247, 239);
+    color: rgb(0, 255, 98);
+    font-size: 30px;
+    background-color: rgb(0, 0, 0);
 }
 #Grand{
-    color: rgb(48, 174, 96);
-  background-color: rgb(233, 247, 239);
+    color: rgb(0, 255, 98);
+    font-size: 30px;
     text-align: left;
 }
 
 #G1{
-
+    text-align: left;
 }
 #G2{
-
+   text-align: left;
 }
 
 #G3{
-
+    text-align: left;
 }
 
-#Amazonia{
-
+#Amazonia{ 
+    color: yellow;
+    font-size: 30px;
+    background-color: rgb(18, 221, 79);
+    text-align: left;
 }
 
 #A1{
-
+    text-align: left;
 }
 
 #A2{
-
+   text-align: left;
 }
 
-#A3[
-
-]
+#A3{
+    text-align: left;
+}
 
 #Barrier{
-
+    color: lightsalmon;
+    font-size: 30px;
+background-color: rgb(65, 0, 0);
+text-align: left;
 }
 
 #B1{
-
+text-align: left;
 }
 #B2{
-
+text-align: left;
 }
 
 #B3{
-
+text-align: left;
 }
 
 #Cidades{
-
+color: gray;
+font-size: 30px;
+background-color: rgb(255, 0, 0);
+text-align: left;
 }
 
 #Nova{
-
+    color: darkblue;
+    font-size: 30px;
+    background-color: rgb(61, 161, 94);
+text-align: left;
 }
 
 #N1{
-
+text-align: left;
 }
 
 #N2{
-
+text-align: left;
 }
 
 #N3{
-
+text-align: left;
 }
 
 #Barcelona{
-
+color: purple;
+font-size: 30px;
+background-color: rgb(34, 1, 1);
 }
 
 #S1{
-
+text-align: left;
 }
 
 #S2{
-
+text-align: left;
 }
 
 #S3{
-
+text-align: left;
 }
 
 #Bangkok{
-
+color: brown;
+font-size: 30px;
+background-color: rgb(99, 49, 192);
+text-align: left;
 }
 
 #O1{
-
+text-align: left;
 }
 
 #O2{
-
+text-align: left;
 }
 
 #O3{
-
+text-align: left;
 }
 
 #Ex{
-
+color: khaki;
+font-size: 30px;
+background-color: rgb(0, 0, 0);
+text-align: left;
 }
 
 #Je{
-
+text-align: left;
 }
 
 #J1{
-
+text-align: left;
 }
 
 #J2{
-
+text-align: left;
 }
 
 #J3{
-
+text-align: left;
 }
 
 #Mr{
-
+color: maroon;
+font-size: 30px;
+background-color: rgb(190, 123, 123);
+text-align: left;
 }
 
 #E1{
-
+text-align: left;
 }
 
 #E2{
-
+text-align: left;
 }
 
 #E3{
-
+text-align: left;
 }
 
 #Veneza{
-
+    color: blue;
+    font-size: 30px;
+    background-color: rgb(238, 255, 0);
+    text-align: left;
 }
 
 #V1{
-
+text-align: left;
 }
 
 #V2{
-
+text-align: left;
 }
 
 #V3{
-    
+    text-align: left;
 }
