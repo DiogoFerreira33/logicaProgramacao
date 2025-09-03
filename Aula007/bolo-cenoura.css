@@ -6,17 +6,15 @@ body{
 }
 
 .receita-detalhe{
-    min-width: 40px;
-    max-width: 40vw;
-    margin:30px auto ;
+    width: 50vw;
+    margin: 30px auto;
+    padding: 20px;
     border: 1px solid black;
-    margin: 20px;
     border-radius: 15px;
-    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.877);
+    box-shadow: 0px 4px 12px rgba(rgb(0), 0, 0, 0.426);
     background-color: var(--cor-main);
-
 }
-.receita-detalhE H2{
+.receita-detalhe H2{
     text-align: center;
     font-size: 1.83mm;
     margin-bottom: 20px;
@@ -24,23 +22,29 @@ body{
 
 .img-receita{
     display: block;
-    width: 40%;
+    width: 60%;
     margin: 10px auto;
     border-radius: 12px ;
  height: auto;   
 }
+
+main > section > H2{
+   text-align: center;
+   font-size: 1.8em;
+}
 .receita-detalhe h3{
-margin-top: 30px;
+margin-top: 20px;
+margin-bottom: 15px;
 color: var(--titulo-h3);
+font-family: 'Times New Roman', Times, serif;
 }
 
 .receia-detalhe ul, .receit-detalhe ol {
-    text-align: center;
-    margin-left: 40px;
+    margin-left: 20px;
     line-height: 1.6;
 }
 
 footer{
     position: relative;
-    background-color: var(--cor-rodade);
+    width: 100%;
 }
